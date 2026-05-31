@@ -10,6 +10,5 @@ Universidad de Investigacion y Desarrollo (UDI) Entrega Final - Version Completa
 
 # Descripcion General
 
-RUTA_PRAXIS es un software de escritorio desarrollado en Java Swing con una conexion a Oracle Database, diseñada para 
+RUTA PRAXIS es un software desarrollado en Java para apoyar la gestión y seguimiento de prácticas académicas. El sistema permite organizar actividades, evidencias, bitácoras y usuarios involucrados en el proceso de práctica pedagógica.
 
-Repositorio Github del Proyecto Integrador de cuaro semestre, en donde el programa se llama Ruta Praxis
