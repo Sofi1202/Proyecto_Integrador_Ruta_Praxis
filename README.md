@@ -1,14 +1,18 @@
-# 🧩 RUTA_PRAXIS - Software para la Gestion de Practicas Academicas
+# 🍀 RUTA PRAXIS - Sistema de Gestion de Practicas Academicas
 
 Proyecto Integrador - Ingenieria en Sistemas
 
-Universidad de Investigacion y Desarrollo (UDI) Entrega Final - Version Completa
+Universidad de Investigacion de Desarrollo (UDI)
 
-# Video del Prototipo Funcionando
+Entrega Final - Version Completa
 
-🧩
+# 🔔 Descripcion General
 
-# Descripcion General
+Ruta Praxis es una aplicacion desarrollada en Java orientada en la gestion, seguimiento y evaluacion de practicas academicas 
 
-RUTA PRAXIS es un software desarrollado en Java para apoyar la gestión y seguimiento de prácticas académicas. El sistema permite organizar actividades, evidencias, bitácoras y usuarios involucrados en el proceso de práctica pedagógica.
 
+🎥 Video del prototipo funcionando
+🔗
+
+💻 Repositorio
+🔗 https://github.com/Sofi1202/Proyecto_Integrador_Ruta_Praxis
