@@ -14,16 +14,16 @@ El software fue diseñada para centralizar y optimizar el proceso de práctica p
 
 El sistema integra en un único entorno:
 
-✔ Gestión y seguimiento de prácticas académicas
-✔ Registro de actividades y bitácoras pedagógicas
-✔ Carga y administración de evidencias digitales
-✔ Seguimiento y acompañamiento por tutores académicos
-✔ Supervisión y observaciones por asesores pedagógicos
-✔ Evaluación y retroalimentación del desempeño estudiantil
-✔ Consulta del historial completo de prácticas
-✔ Control y validación del cumplimiento de horas de práctica
-✔ Gestión centralizada de la información académica
-✔ Interfaz gráfica desarrollada en Java Swing con enfoque en usabilidad y accesibilidad
+- ✔ Gestión y seguimiento de prácticas académicas
+- ✔ Registro de actividades y bitácoras pedagógicas
+- ✔ Carga y administración de evidencias digitales
+- ✔ Seguimiento y acompañamiento por tutores académicos
+- ✔ Supervisión y observaciones por asesores pedagógicos
+- ✔ Evaluación y retroalimentación del desempeño estudiantil
+- ✔ Consulta del historial completo de prácticas
+- ✔ Control y validación del cumplimiento de horas de práctica
+- ✔ Gestión centralizada de la información académica
+- ✔ Interfaz gráfica desarrollada en Java Swing con enfoque en usabilidad y accesibilidad
 
 🎥 Video del prototipo funcionando
 🔗
